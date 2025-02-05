@@ -15,3 +15,5 @@ php -S localhost:8000 -t public
 ```bash
 php tests/api-client/test.php
 ```
+
+- Запускалось на PHP 8.3.15
